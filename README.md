@@ -6,7 +6,7 @@ Known Bugs:
 - Treasure Bag doesn't display item names correctly
 - When buying items, "in bag" string isn't displayed properly
 
-I'm working on those, I promise.
+I'm working on those, I promise.<br>
 Feel free to report any other bugs.
 
 # Original Prism README
