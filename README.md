@@ -7,7 +7,8 @@ Known Bugs:
 - When buying items, "in bag" string isn't displayed properly
 
 I'm working on those, I promise.<br>
-Feel free to report any other bugs.
+Feel free to report any other bugs.<br>
+Current Version: **0.95.254**
 
 # Original Prism README
 
