@@ -1,0 +1,91 @@
+LassGroup:
+	; 1
+	db "DAPHNE@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 18, MAREEP
+	db 19, FLAAFFY
+	db -1
+
+	; 2
+	db "BRONWYN@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 76, RAICHU
+	db 78, WIGGLYTUFF
+	db -1
+
+	; 3
+	db "JAN@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 78, WIGGLYTUFF
+	db 78, WIGGLYTUFF
+	db -1
+
+	; 4
+	db "AMY@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 79, ARIADOS
+	db -1
+
+	; 5
+	db "MAY@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 79, MASQUERAIN
+	db -1
+
+	; 6
+	db "MAGGIE@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 69, LUCARIO
+	db 70, MISMAGIUS
+	db 72, XATU
+	db -1
+
+	; 7
+	db "LUCIA@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 64, WEEPINBELL
+	db 65, PARASECT
+	db 65, VICTREEBEL
+	db -1
+
+	; 8
+	db "ROXY@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 64, VENUSAUR
+	db 65, EXEGGUTOR
+	db -1
+
+	; 9
+	db "JANA@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 59, GALLADE
+	db 60, LUCARIO
+	db -1
+
+	; 10
+	db "DEBBY@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 57, MACHOKE
+	db 59, BRELOOM
+	db 59, MACHAMP
+	db -1

@@ -1,0 +1,136 @@
+FisherGroup:
+	; 1
+	db "STANFORD@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 79, MILOTIC
+	db 78, GYARADOS
+	db -1
+
+	; 2
+	db "VINCE@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 37, MAGIKARP
+	db 37, FEEBAS
+	db -1
+
+	; 3
+	db "ALBERT@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 27, MILOTIC
+	db -1
+
+	; 4
+	db "BUD@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 27, GOLDEEN
+	db 28, SEAKING
+	db -1
+
+	; 5
+	db "DENZEL@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 41, SEAKING
+	db 42, AZUMARILL
+	db 43, WAILORD
+	db -1
+
+	; 6
+	db "KALEB@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 41, TENTACRUEL
+	db 42, WAILMER
+	db 43, SEAKING
+	db -1
+
+	; 7
+	db "MILES@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 71, LANTURN
+	db 73, GYARADOS
+	db 74, FERALIGATR
+	db -1
+
+	; 8
+	db "LOU@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 60, LUDICOLO
+	db 61, LANTURN
+	db 61, WAILORD
+	db 62, GYARADOS
+	db -1
+
+	; 9
+	db "MARKUS@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 61, BLASTOISE
+	db 62, WAILORD
+	db 63, MASQUERAIN
+	db -1
+
+	; 10
+	db "GUS@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 60, MILOTIC
+	db 62, MASQUERAIN
+	db 64, MILOTIC
+	db -1
+
+	; 11
+	db "NILE@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 78, SEAKING
+	db 78, RELICANTH
+	db 80, GYARADOS
+	db -1
+
+	; 12
+	db "ISHMAEL@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 39, GOLDEEN
+	db 39, WAILMER
+	db 40, SEAKING
+	db -1
+
+	; 13
+	db "OWEN@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 35, TENTACRUEL
+	db 35, SEAKING
+	db 36, LUDICOLO
+	db -1
+
+	; 14
+	db "LEVY@"
+
+	db TRAINERTYPE_NORMAL
+
+	db 40, BLASTOISE
+	db 40, GYARADOS
+	db 40, FERALIGATR
+	db -1
