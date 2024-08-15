@@ -304,7 +304,7 @@ GetFailureResultText:
 	jp PlayerHurtItself
 
 .GroundTypeString:
-	db "Ground-type@"
+	db "ground-type@"
 
 .SoundBasedString:
 	db "sound-based@"

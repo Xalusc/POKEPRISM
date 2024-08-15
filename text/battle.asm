@@ -1057,7 +1057,7 @@ SunGotBrightText::
 BellyDrumText::
 	ctxt "<USER>"
 	line "cut its HP and"
-	cont "maximized Attack!"
+	cont "maximized ATTACK!"
 	prompt
 
 CopiedStatsText::

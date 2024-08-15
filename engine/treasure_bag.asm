@@ -67,7 +67,7 @@ PrintTreasureBagItems:
 	pop hl ; retrieve vtile address
 	push hl ; push again for later
 	ld de, wMisc
-	lb bc, 0, 9
+	lb bc, 0, 10
 	predef PlaceVWFString
 	pop hl ; popped just to get to bc
 	pop bc ; count

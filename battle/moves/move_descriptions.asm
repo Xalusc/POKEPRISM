@@ -771,7 +771,7 @@ SelfdestructDescription:
 
 MetallurgyDescription:
 	ctxt "Makes the user"
-	next "Steel-type."
+	next "steel-type."
 	done
 
 StormFrontDescription:
@@ -969,7 +969,7 @@ CottonSporeDescription:
 
 BellyDrumDescription:
 	ctxt "Cut HP in 1/2"
-	next "to max attack."
+	next "to max ATTACK."
 	done
 
 PlayRoughDescription:
@@ -1039,7 +1039,7 @@ CharmDescription:
 
 VaporizeDescription:
 	ctxt "Makes the foe part"
-	next "Water-type."
+	next "water-type."
 	done
 
 SwaggerDescription:
@@ -1176,23 +1176,23 @@ TwisterDescription:
 	done
 
 RainDanceDescription:
-	ctxt "Boosts Water-type"
+	ctxt "Boosts water-type"
 	next "moves for 5 turns."
 	done
 
 SunnyDayDescription:
-	ctxt "Boosts Fire-type"
+	ctxt "Boosts fire-type"
 	next "moves for 5 turns."
 	done
 
 BoilDescription:
 	ctxt "Super-effective"
-	next "against Water."
+	next "against water."
 	done
 
 CrystalBoltDescription:
 	ctxt "Electric attack"
-	next "hits Ground."
+	next "hits ground."
 	done
 
 ExtremespeedDescription:
@@ -1219,12 +1219,12 @@ MiasmaDescription:
 
 SteelEaterDescription:
 	ctxt "Super-effective"
-	next "against Steel."
+	next "against steel."
 	done
 
 GhostHammerDescription:
 	ctxt "Ghost attack"
-	next "hits Normal."
+	next "hits normal-types."
 	done
 
 PowerGemDescription:

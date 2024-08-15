@@ -152,26 +152,26 @@ TrainerCard_Page1_LoadGFX:
 	hlcoord 1, 7
 	ld b, 6
 	call .fillinc
-	; Mining
+	; Mining -- begin part of interest
 	hlcoord 1, 9
 	ld de, wMiningLevel
-	lb bc, 6, $67
+	lb bc, 4, $67
 	call .printskill
 	; Jeweling
 	hlcoord 1, 11
 	ld de, wJewelingLevel
-	lb bc, 8, $6c
+	lb bc, 6, $6c
 	call .printskill
 	; Smelting
 	hlcoord 1, 13
 	ld de, wSmeltingLevel
-	lb bc, 8, $71
+	lb bc, 6, $71
 	call .printskill
 	; Crafting
 	hlcoord 1, 15
 	ld de, wBallMakingLevel
-	lb bc, 8, $76
-	call .printskill
+	lb bc, 6, $76
+	call .printskill ;end part of interest
 	hlcoord 11, 1
 	ld de, .ID_No
 	call TrainerCardSetup_PlaceTilemapString

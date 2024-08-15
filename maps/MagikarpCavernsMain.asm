@@ -201,11 +201,11 @@ MagikarpCavernsMainSage:
 
 	para "North of the cave"
 	line "lie the regions of"
-	cont "Tunod and Rankor."
+	cont "TUNOD and RANKOR."
 
 	para "You're not strong"
 	line "enough to handle"
-	para "the Trainers there"
+	para "the trainers there"
 	line "yet."
 
 	para "Come back when you"
@@ -254,7 +254,7 @@ MagikarpCavernsMainSage:
 	para "You must remember,"
 	line "young one<...>"
 
-	para "The Magikarp will"
+	para "The MAGIKARP will"
 	line "always be by your"
 	para "side, guiding you,"
 	line "moulding you,"

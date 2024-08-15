@@ -380,17 +380,17 @@ HPUpDesc:
 	done
 
 ProteinDesc:
-	ctxt "Raises Attack of"
+	ctxt "Raises ATTACK of"
 	next "one #MON."
 	done
 
 IronDesc:
-	ctxt "Raises Defense of"
+	ctxt "Raises DEFENSE of"
 	next "one #MON."
 	done
 
 CarbosDesc:
-	ctxt "Raises Speed of"
+	ctxt "Raises SPEED of"
 	next "one #MON."
 	done
 
