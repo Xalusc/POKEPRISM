@@ -122,7 +122,7 @@ JensLabRedBall:
 
 .ball_text
 	ctxt "It's a red"
-	line "#BALL!"
+	line "# BALL!"
 	done
 
 .mon_text
@@ -149,7 +149,7 @@ JensLabBlueBall:
 
 .ball_text
 	ctxt "It's a blue"
-	line "#BALL!"
+	line "# BALL!"
 	done
 
 .mon_text
@@ -176,7 +176,7 @@ JensLabGreenBall:
 
 .ball_text
 	ctxt "It's a green"
-	line "#BALL!"
+	line "# BALL!"
 	done
 
 .mon_text

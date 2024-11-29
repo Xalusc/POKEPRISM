@@ -80,7 +80,7 @@ NotEnoughApricornsText:
 	ctxt "You need a"
 	line "<STRBF3> to"
 	cont "make this"
-	cont "#BALL."
+	cont "# BALL."
 	prompt
 
 LowBallLevelText:
@@ -88,7 +88,7 @@ LowBallLevelText:
 	line "@"
 	deciram hScriptVar, 1, 0
 	ctxt " to make this"
-	cont "#BALL."
+	cont "# BALL."
 	prompt
 
 ChoosePokeballText:

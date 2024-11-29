@@ -15,7 +15,7 @@ Route55HiddenItem:
 	db GOLD_TOKEN
 
 Route55DirectionsSign:
-	stxt "MT. BOULDER RANGE"
+	stxt "MT.BOULDER RANGE"
 	next "<UP>  DOCK UNDERPASS"
 	next "<UP><LEFT> RAINBOW TOWER"
 	next "<UP><RIGHT> MT. BOULDER"
@@ -37,7 +37,7 @@ Route55TowerSign:
 
 .FacingUp ; cannot read sign facing up
 .FacingDown
-	text "RAINBOW"
+	stxt "RAINBOW"
 	nl   "   TOWER"
 	nl   "    <UP>"
 	nl   "    <UP>"
@@ -59,7 +59,7 @@ Route55TowerSign:
 	done
 
 .FacingRight
-	text "RAINBOW"
+	stxt "RAINBOW"
 	nl   "   TOWER"
 	nl   "    <UP>"
 	nl   "    <UP>"

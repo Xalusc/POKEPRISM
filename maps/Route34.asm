@@ -21,7 +21,7 @@ Route34ApricornAdSign:
 	signpostheader 1
 	ctxt "Talented trainers"
 	nl   "can make their"
-	nl   "own #BALLS!"
+	nl   "own # BALLS!"
 
 	next "Search through"
 	nl   "RIJON to find"

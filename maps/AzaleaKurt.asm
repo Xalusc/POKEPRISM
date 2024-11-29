@@ -19,7 +19,7 @@ AzaleaKurtKurt:
 
 	para "Back in the days,"
 	line "I was making"
-	para "#BALLS day and"
+	para "# BALLS day and"
 	line "night."
 
 	para "Now, however<...>"
@@ -80,7 +80,7 @@ AzaleaKurtGranddaughter:
 
 .low_level_text
 	ctxt "Grandpa used to"
-	line "make #BALLS for"
+	line "make # BALLS for"
 	para "people, until he"
 	line "got the arthritis."
 

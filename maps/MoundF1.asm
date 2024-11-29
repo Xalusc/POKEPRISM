@@ -261,7 +261,7 @@ MoundF1DynamiteGuy:
 
 .no_balls_text
 	ctxt "You don't have any"
-	line "#BALLS?"
+	line "# BALLS?"
 
 	para "Well<...>"
 
@@ -273,7 +273,7 @@ MoundF1DynamiteGuy:
 	para "Here."
 
 	para "Have a couple of"
-	line "#BALLS!"
+	line "# BALLS!"
 	sdone
 
 .need_fire_mon_text

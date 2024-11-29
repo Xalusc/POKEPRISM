@@ -22,7 +22,7 @@ AzaleaPokecenterNPC2:
 	para "can catch #MON"
 	line "with it!"
 
-	para "Before #BALLS"
+	para "Before # BALLS"
 	line "were invented,"
 	para "people used"
 	line "APRICORNS."

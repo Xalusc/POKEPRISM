@@ -90,17 +90,17 @@ SoutherlyAirportPilot:
 
 	para "This is indeed a"
 	line "ticket to the"
-	cont "Mystery Zone."
+	cont "MYSTERY ZONE."
 
-	para "The Mystery Zone"
+	para "The MYSTERY ZONE"
 	line "is home to some of"
 	para "the best #MON"
-	line "Trainers in the"
+	line "trainers in the"
 	cont "world!"
 
 	para "You must be a very"
 	line "skilled #MON"
-	cont "Trainer!"
+	cont "trainer!"
 
 	para "Well, I can take"
 	line "you there right"
@@ -111,7 +111,7 @@ SoutherlyAirportPilot:
 
 .want_to_go_text
 	ctxt "Want to fly to the"
-	line "Mystery Zone?"
+	line "MYSTERY ZONE?"
 	done
 
 .leaving_text
@@ -124,11 +124,11 @@ SoutherlyAirportPilot:
 
 	para "I don't get to take"
 	line "many people to the"
-	cont "Mystery Zone!"
+	cont "MYSTERY ZONE!"
 	done
 
 SoutherlyCityAirportCheckInSign:
-	ctxt "Airport"
+	ctxt "AIRPORT"
 	nl   ""
 	next "Check-in and"
 	next "boarding gate"

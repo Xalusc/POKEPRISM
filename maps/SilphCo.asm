@@ -131,7 +131,7 @@ SilphCoReceptionist:
 	line "several prototypes"
 	para "while trying to"
 	line "develop the"
-	cont "perfect #BALL."
+	cont "perfect # BALL."
 
 	para "When I took over,"
 	line "I made the company"
